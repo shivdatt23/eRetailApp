@@ -74,7 +74,7 @@ Welcome to the eRetail Application! This project demonstrates a microservices-ba
 3. **Configure databases**:
     - Update the `application.properties` files in the respective services with your MongoDB and MySQL configurations.
 
-4. **Build and run the services**:
+<!-- 4. **Run the services**:
     - Navigate to each service directory and run:
       ```sh
       mvn clean install
@@ -113,6 +113,8 @@ Welcome to the eRetail Application! This project demonstrates a microservices-ba
     mvn spring-boot:run
     ```
 
+
+-->
 ## Usage
 
 - **Product Service**:
